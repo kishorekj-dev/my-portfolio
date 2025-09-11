@@ -16,7 +16,7 @@
   text-align: center;
   width: 80%;
   font-size: 65px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .hero h1 span {
@@ -80,8 +80,9 @@ a {
     gap: 16px;
   }
   .hero h1 {
+    margin-top: 10px;
+    width: 90%;
     font-size: 35px;
-    width: 100%;
   }
   .hero p {
     width: 80%;
@@ -90,8 +91,9 @@ a {
     margin: 5px 0;
   }
   .hero-image {
-    width: 180px;
-    height: 180px;
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
   }
   .hero-action {
     gap: 15px;
