@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  padding: 5px 0 5px 0;
+  height: 35px;
+}
+
+body {
+  height: 100vh;
+  background-color: #161513;
+  color: white;
+  font-family: "outfit", sans-serif;
+}
